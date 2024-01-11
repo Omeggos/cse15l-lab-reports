@@ -1,13 +1,3 @@
-*Hello World!*
-Hello World 2!
+# Lab Report 1	
 
-*Italic*	
-**Bold**	
-# Heading 1	
-## Heading 2	
-* List
-* List
-* List
-1. One
-2. Two
-3. Three
+![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/94833b54-710d-47d2-8ea0-82a64fd170e9)
