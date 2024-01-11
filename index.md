@@ -1,3 +1,6 @@
 # Lab Report 1	
 
-1. asd
+* cd commands
+
+1. No arguments
+asd
