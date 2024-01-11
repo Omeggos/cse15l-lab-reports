@@ -28,5 +28,8 @@
    ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/c61345ae-ac27-46df-b751-dabea6e8680b)
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
-   asd
+   
+   When calling cd with a file as an argument, it will not be able to cd into the file and instead stay in the same working directory as it cannot cd into a file, only directories.
+
+   The output was an error because you cannot cd into a file. 
 
