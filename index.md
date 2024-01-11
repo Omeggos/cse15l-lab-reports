@@ -37,25 +37,47 @@
 
 * ls commands
 
-  1. No arguments
+1. No arguments
  
   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/0911cbd8-53c8-42e4-89a1-b9cefe13397b)
 
-  asdasd
+  The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+
+  When calling ls with no arguments, it will list the contents of the current working directory. 
+
+  The output was not an error.
   
-  2. Directory as an argument
- 
-     
-  3. File as an argument
+2. Directory as an argument
+
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d0ea9544-110d-4927-85fc-33064b005ac6)
+
+   The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+
+   When calling ls with a directory as an argument, it will list the contents within the directory that was the argument.
+
+   The output was not an error.
+   
+4. File as an argument
+
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d3eacdd4-a3dc-4412-9fd9-e0dcbf51e6f4)
+
+   The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+
+   When calling ls with a file as an argument, it will only list the file that was inputted as the argument.
+
+   The output was not an error.
+
  
 ---
 
 * cat commands
 
-  1. No arguments
+1. No arguments
+
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d6716f51-8a0a-4f6c-99f9-e305c289705b)
+
+   The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+3. Directory as an argument
  
      
-  2. Directory as an argument
- 
-     
-  3. File as an argument
+4. File as an argument
