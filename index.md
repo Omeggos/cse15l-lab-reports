@@ -13,7 +13,7 @@
    The output was not an error.
    
 
-3. Directory as an argument
+2. Directory as an argument
 
    ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/92b17b8f-b80c-4106-95ee-73f82fa60428)
    
@@ -21,4 +21,12 @@
    
    When calling cd with a directory as an argument, the working directory will now be in the directory that was called as an argument.
 
-   The output was not an error. 
+   The output was not an error.
+
+3. File as an argument
+
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/c61345ae-ac27-46df-b751-dabea6e8680b)
+
+   The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+   asd
+
