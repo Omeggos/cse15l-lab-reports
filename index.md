@@ -34,3 +34,28 @@
    The output was an error because you cannot cd into a file. 
 
 ---
+
+* ls commands
+
+  1. No arguments
+ 
+  ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/0911cbd8-53c8-42e4-89a1-b9cefe13397b)
+
+  asdasd
+  
+  2. Directory as an argument
+ 
+     
+  3. File as an argument
+ 
+---
+
+* cat commands
+
+  1. No arguments
+ 
+     
+  2. Directory as an argument
+ 
+     
+  3. File as an argument
