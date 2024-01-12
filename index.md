@@ -92,9 +92,13 @@
 
    The output was an error as the `cat` command is to read a file and then output the contents of the file, it cannot do the same to a directory. 
 
-4. File as an argument
+3. File as an argument
 
    ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d4d3e8c6-a5d5-4d1f-bfda-711c9abc6a32)
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+
+   When calling `cat` with a file as an argument, the contents of the file will be outputted as a string and displayed in the command line.
+
+   The output was not an error. 
 
