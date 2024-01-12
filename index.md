@@ -1,6 +1,6 @@
 # Lab Report 1	
 
-* cd commands
+* ``cd`` commands
 
 1. No arguments
 
@@ -8,7 +8,7 @@
    
    The working directory when the code was run, was in /home/lecture1/messages, and it ends in /home.
    
-   When calling cd without any arguments, it will be brought back to the home directory.
+   When calling `cd` without any arguments, it will be brought back to the home directory.
    
    The output was not an error.
    
@@ -19,7 +19,7 @@
    
    The working directory when the code was run, was in /home, and it ended in /home/lecture1.
    
-   When calling cd with a directory as an argument, the working directory will now be in the directory that was called as an argument.
+   When calling `cd` with a directory as an argument, the working directory will now be in the directory that was called as an argument.
 
    The output was not an error.
 
@@ -29,13 +29,13 @@
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
    
-   When calling cd with a file as an argument, it will not be able to cd into the file and instead stay in the same working directory as it cannot cd into a file, only directories.
+   When calling `cd` with a file as an argument, it will not be able to `cd` into the file and instead stay in the same working directory as it cannot `cd` into a file, only directories.
 
-   The output was an error because you cannot cd into a file. 
+   The output was an error because you cannot `cd` into a file. 
 
 ---
 
-* ls commands
+* `ls` commands
 
 1. No arguments
  
@@ -59,7 +59,7 @@
    
 3. File as an argument
 
-   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d3eacdd4-a3dc-4412-9fd9-e0dcbf51e6f4)
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d3ea`cd`d4-a3dc-4412-9fd9-e0dcbf51e6f4)
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
@@ -70,7 +70,7 @@
  
 ---
 
-* cat commands
+* `cat` commands
 
 1. No arguments
 
@@ -83,6 +83,18 @@
    The output was not an error.
 
 2. Directory as an argument
- 
-     
-3. File as an argument
+
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d5ef0c1d-66d7-43bd-a399-35f0de973af9)
+
+   The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+
+   When calling cat with a directory as an argument, there will be an error thrown saying that the argument was a directory and nothing will be printed.
+
+   The output was an error as the cat command is to read a file and then output the contents of the file, it cannot do the same to a directory. 
+
+4. File as an argument
+
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d4d3e8c6-a5d5-4d1f-bfda-711c9abc6a32)
+
+   The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+
