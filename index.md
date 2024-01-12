@@ -35,7 +35,7 @@
 
 ---
 
-* `ls` commands
+* ``ls`` commands
 
 1. No arguments
  
@@ -43,7 +43,7 @@
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
-   When calling ls with no arguments, it will list the contents of the current working directory. 
+   When calling `ls` with no arguments, it will list the contents of the current working directory. 
 
    The output was not an error.
   
@@ -53,7 +53,7 @@
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
-   When calling ls with a directory as an argument, it will list the contents within the directory that was the argument.
+   When calling `ls` with a directory as an argument, it will list the contents within the directory that was the argument.
 
    The output was not an error.
    
@@ -63,14 +63,14 @@
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
-   When calling ls with a file as an argument, it will only list the file that was inputted as the argument.
+   When calling `ls` with a file as an argument, it will only list the file that was inputted as the argument.
 
    The output was not an error.
 
  
 ---
 
-* `cat` commands
+* ``cat`` commands
 
 1. No arguments
 
@@ -78,7 +78,7 @@
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
-   When calling cat with no argument, all sequential entries into the command line will be returned.
+   When calling `cat` with no argument, all sequential entries into the command line will be returned.
 
    The output was not an error.
 
@@ -88,9 +88,9 @@
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
-   When calling cat with a directory as an argument, there will be an error thrown saying that the argument was a directory and nothing will be printed.
+   When calling `cat` with a directory as an argument, there will be an error thrown saying that the argument was a directory and nothing will be printed.
 
-   The output was an error as the cat command is to read a file and then output the contents of the file, it cannot do the same to a directory. 
+   The output was an error as the `cat` command is to read a file and then output the contents of the file, it cannot do the same to a directory. 
 
 4. File as an argument
 
