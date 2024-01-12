@@ -39,13 +39,13 @@
 
 1. No arguments
  
-  ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/0911cbd8-53c8-42e4-89a1-b9cefe13397b)
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/0911cbd8-53c8-42e4-89a1-b9cefe13397b)
 
-  The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
+   The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
-  When calling ls with no arguments, it will list the contents of the current working directory. 
+   When calling ls with no arguments, it will list the contents of the current working directory. 
 
-  The output was not an error.
+   The output was not an error.
   
 2. Directory as an argument
 
