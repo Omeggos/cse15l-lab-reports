@@ -59,7 +59,7 @@
    
 3. File as an argument
 
-   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d3ea`cd`d4-a3dc-4412-9fd9-e0dcbf51e6f4)
+   ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/24ddf142-e2ef-4d40-9012-de792ae2ca13)
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
 
