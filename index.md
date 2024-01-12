@@ -57,7 +57,7 @@
 
    The output was not an error.
    
-4. File as an argument
+3. File as an argument
 
    ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d3eacdd4-a3dc-4412-9fd9-e0dcbf51e6f4)
 
@@ -77,7 +77,12 @@
    ![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/d6716f51-8a0a-4f6c-99f9-e305c289705b)
 
    The working directory when the code was run, was in /home/lecture1, and it ended in /home/lecture1.
-3. Directory as an argument
+
+   When calling cat with no argument, all sequential entries into the command line will be returned.
+
+   The output was not an error.
+
+2. Directory as an argument
  
      
-4. File as an argument
+3. File as an argument
