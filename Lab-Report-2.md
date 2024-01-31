@@ -22,6 +22,6 @@ The relevant arguments for the method would be the URL as everything after /add-
 
 The values of the field `String` inputs get changed again as there is an additional statement being added to the `String`. There is an additional statement that is added to the `String` inputs, which will read
 
-"Philip: The+weather+is+very+nice+today
+"Philip: The+weather+is+very+nice+today"
 
-Sean: Yes,+I+agree.+The+weather+is+quite+nice!". 
+"Sean: Yes,+I+agree.+The+weather+is+quite+nice!". 
