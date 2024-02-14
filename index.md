@@ -161,7 +161,7 @@ $ find -size '+200k'
 Finds all the files over a certain size in the working directory.
 
 
-*`-mtime`
+* `-mtime`
 
 ```
 Philip@w MINGW64 /a/UCSD/docsearch/technical (main)
@@ -203,7 +203,7 @@ $ find -mtime '0'
 Finds all the files created on a certain day in a directory. 
 
 
-*`-name`
+* `-name`
 
 ```
 Philip@w MINGW64 /a/UCSD/docsearch/technical (main)
