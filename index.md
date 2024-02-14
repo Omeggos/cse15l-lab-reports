@@ -82,3 +82,13 @@ The result after running a test that had an incorrect output while the other tes
 
 The changed method addresses the issues since it can reverse the given array. The length will need to be divided by two to not let the program reverse itself in the process. The `temp` holds the value of `arr[i]` and swaps the value
 of `arr[i]` with `arr[arr.length - i - 1]`, and swaps the value at `arr[arr.length - i - 1]` with `temp`.
+
+2. Part 2
+
+Some of the interesting command line options for `find` that I found were: `-type`, `-size`, `-mtime`, and `-name`.
+
+
+
+```
+
+```
