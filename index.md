@@ -34,3 +34,19 @@ Step 7:
 We will use `vim` in order to both access the file and change the contents of the file from the command line. Then certain keystrokes will be used to both navigate and change the contents of the file. We know that the error occurs on line 43, therefore we can use the following key presses to fix the file. 
 
 `vim ListExamples.java`, `4 3 <enter> e a <backspace> 2 <esc> : w q`
+
+Step 8: 
+
+![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/edcccac7-7492-489b-a3ce-af3768a07609)
+
+Now we will use `bash test.sh` to check if the tests are working.
+
+Keys pressed: `<up> <up>`
+
+Step 9:
+
+![image](https://github.com/Omeggos/cse15l-lab-reports/assets/105466539/2cf717af-fca3-42fd-9e4d-f96302265b1c)
+
+This last step will utilize certain `git` commands in order to `add`, `commit`, and `push`. `add` adds the changes to the files, `commit` commits the changes, and `push` pushes the changes back to github.
+
+Keys pressed: `git add ListExamples.java`, `git commit -m 'fixed`, `git push`
